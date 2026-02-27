@@ -476,12 +476,12 @@ showroom
 }
 
 @media screen and (min-width:769px) and (max-width: 1365px) {
-  .showroom__inner {
+  .showroom__container {
     overflow-x: scroll;
   }
 }
 @media screen and (max-width: 768px) {
-  .showroom__inner {
+  .showroom__container {
     overflow-x: scroll;
   }
 }
